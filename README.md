@@ -1,1 +1,1 @@
-# LoginApp
+# lab2_login
